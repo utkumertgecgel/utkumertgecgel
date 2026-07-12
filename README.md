@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Utku%20Mert%20GECGEL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=20&descColor=C4B5FD" width="100%"/>
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Utku%20Mert%20GECGEL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=20&descColor=C4B5FD)
+
 </div>
 
 <br/>
@@ -258,27 +260,11 @@ Currently expanding expertise in **distributed systems**, **LLM-based architectu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=utkumertgecgel&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=9F7AEA&icon_color=7C3AED&text_color=C4B5FD&include_all_commits=true&count_private=true" height="185" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=utkumertgecgel&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=9F7AEA&sideLabels=C4B5FD&dates=8B5CF6" height="185" alt="Streak Stats"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkumertgecgel&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=9F7AEA&text_color=C4B5FD&langs_count=8" height="155" alt="Top Languages"/>
+[![Streak Stats](https://streak-stats.demolab.com/?user=utkumertgecgel&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A78BFA&currStreakLabel=9F7AEA&sideLabels=C4B5FD&dates=8B5CF6)](https://git.io/streak-stats)
 
 </div>
 
----
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=utkumertgecgel&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
@@ -356,6 +342,6 @@ current_focus:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer)
 
 </div>
