@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,40:6D28D9,80:7C3AED,100:A78BFA&height=230&section=header&text=Utku%20Mert%20GE%C3%87GEL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=20&descColor=C4B5FD" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Utku%20Mert%20GECGEL&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Engineer&descAlignY=58&descSize=20&descColor=C4B5FD" width="100%"/>
 </div>
 
 <br/>
@@ -44,8 +44,6 @@
 
 ## 👤 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkumertgecgel&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=9F7AEA&text_color=C4B5FD&langs_count=8" width="38%"/>
-
 I'm a **Software Engineer** and **AI/ML practitioner** based in **Istanbul, Turkey**, specializing in scalable backend systems, intelligent application design, and computer vision.
 
 My engineering approach combines a **deep technical foundation** with a **product-first mindset** — I care equally about system correctness, deployment reliability, and the user problems being solved. From gesture-based interaction systems to intelligent community platforms, I build software that bridges research and real-world utility.
@@ -60,8 +58,6 @@ Currently expanding expertise in **distributed systems**, **LLM-based architectu
 - 🔷 AI / ML Engineering Internships & Positions
 - 🔷 Open Source Collaboration & Research
 - 🔷 Computer Vision & NLP Research Partnerships
-
-<br clear="right"/>
 
 ---
 
@@ -360,6 +356,6 @@ current_focus:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B0764,40:6D28D9,80:7C3AED,100:A78BFA&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer" width="100%"/>
 
 </div>
