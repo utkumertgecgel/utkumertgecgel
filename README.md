@@ -60,7 +60,7 @@ current_focus:
 
 <div align="center">
 
-*"“I don't compete for a place. I build my own.”"* <br> *"“Bir yer kapmak için yarışmam. Kendi yerimi inşa ederim.”"*
+*"“I build my own.”"* <br> *"“Kendi yerimi inşa ederim.”"*
 
 <br/>
 
