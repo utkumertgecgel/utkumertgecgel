@@ -60,7 +60,8 @@ current_focus:
 
 <div align="center">
 
-*"The best engineers don't just write code — they build systems that outlast them."*
+*"“I don't compete for a place. I build my own.”"*
+*"“Bir yer kapmak için yarışmam. Kendi yerimi inşa ederim.”"*
 
 <br/>
 
